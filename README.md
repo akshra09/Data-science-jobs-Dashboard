@@ -6,6 +6,8 @@
 ## 📌 Overview
 This Tableau dashboard provides a comprehensive analysis of data science job salaries across different experience levels, employment types, and locations. It helps users understand salary trends, job distributions, and geographical variations in data science roles.
 
+The dashboard can be found here:- https://public.tableau.com/views/Datasciencesalaries_17424737442940/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 ## 🏆 Key Features
 ✅ Salary Analysis by Experience & Employment Type – Compare average salaries for different experience levels across contract, freelance, full-time, and part-time jobs.
 
